@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd2078d1-5964-4803-9263-e03eb0bc0c4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Unnamed" pattern="src:*..*" />
+  </component>
+  <component name="ProjectId" id="1dii469g15RhAxMOzswXhJGj84i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/REST/Staking" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.netty.NettyClient" />
+      <module name="FESS-TX-PS-BE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Runner" />
+      <module name="FESS-TX-PS-BE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestResponse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.netty.model.TestResponse" />
+      <module name="FESS-TX-PS-BE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.netty.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.TestResponse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd2078d1-5964-4803-9263-e03eb0bc0c4d" name="Default Changelist" comment="" />
+      <created>1592914119017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592914119017</updated>
+      <workItem from="1592914122120" duration="3130000" />
+      <workItem from="1592917361662" duration="3288000" />
+      <workItem from="1592933257408" duration="19388000" />
+      <workItem from="1593004443302" duration="3348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="83" width="1024" height="843" key="#Project_Structure" timestamp="1592914142574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="448" y="83" width="1024" height="843" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592914142574" />
+    <state x="772" y="224" width="376" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1592949853552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="224" width="376" height="562" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592949853552" />
+    <state x="747" y="263" width="426" height="484" key="FileChooserDialogImpl" timestamp="1593005510512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="263" width="426" height="484" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593005510512" />
+    <state width="909" height="294" key="GridCell.Tab.0.bottom" timestamp="1593003912943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593003912943" />
+    <state width="909" height="294" key="GridCell.Tab.0.center" timestamp="1593003912942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="294" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593003912942" />
+    <state width="909" height="294" key="GridCell.Tab.0.left" timestamp="1593003912942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="294" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593003912942" />
+    <state width="909" height="294" key="GridCell.Tab.0.right" timestamp="1593003912943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="294" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593003912943" />
+    <state width="909" height="294" key="GridCell.Tab.1.bottom" timestamp="1593003912944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="294" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593003912944" />
+    <state width="909" height="294" key="GridCell.Tab.1.center" timestamp="1593003912944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="294" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593003912944" />
+    <state width="909" height="294" key="GridCell.Tab.1.left" timestamp="1593003912943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="294" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593003912943" />
+    <state width="909" height="294" key="GridCell.Tab.1.right" timestamp="1593003912944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="294" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593003912944" />
+    <state x="498" y="164" width="924" height="682" key="Maven.ArtifactSearchDialog" timestamp="1592916755666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="498" y="164" width="924" height="682" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592916755666" />
+    <state x="810" y="199" key="SettingsEditor" timestamp="1592917899539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592917899539" />
+    <state x="697" y="261" width="526" height="488" key="extract.method.dialog" timestamp="1592919063878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="261" width="526" height="488" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592919063878" />
+    <state x="628" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593011355030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="628" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593011355030" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/netty/NettyClient.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
